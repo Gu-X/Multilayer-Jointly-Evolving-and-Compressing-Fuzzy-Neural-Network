@@ -9,5 +9,6 @@ Gu, X., Ni, Q., Shen, Q. (2024). Multilayer Evolving Fuzzy Neural Networks with
 Self-Adaptive Dimensionality Compression for High-Dimensional Data
 Classification. IEEE Transactions on Fuzzy Systems, accepted.
 =========================================================================================
- Programmed by Xiaowei Gu. Please cite the paper above if this code helps.
+Please cite the paper above if this code helps.
+Programmed by Xiaowei Gu.
 For any queries about the code, please contact Dr. Xiaowei Gu: xiaowei.gu@surrey.ac.uk
