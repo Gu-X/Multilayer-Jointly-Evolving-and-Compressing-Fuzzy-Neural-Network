@@ -2,7 +2,7 @@ clear all
 clc
 close all
 
-number_iteration=25;
+number_iteration=100;
 load mnist_example_data
 %%
 CL=length(unique(LTra1));
