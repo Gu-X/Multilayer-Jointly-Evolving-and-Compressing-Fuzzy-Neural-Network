@@ -12,4 +12,4 @@ Classification. IEEE Transactions on Fuzzy Systems, accepted.
 Please cite the paper above if this code helps. 
 Programmed by Xiaowei Gu.
 For any queries about the code, please contact Dr. Xiaowei Gu: xiaowei.gu@surrey.ac.uk
-Note, the dataset is a subset of MNIST dataset.
+Note, the dataset in this repository is a subset of MNIST dataset.
